@@ -1,4 +1,4 @@
-## Welcome to Candloid's GitHub
+## Welcome to @Candloid's GitHub
 ![https://www.linkedin.com/in/bilalqandeel/](/qr.png)
 
 Hi! I am Bilal Qandeel. Feel free to checkout my [LinkedIn page](https://www.linkedin.com/in/bilalqandeel/). Here, you can find a couple repos that I would like to show you in Java and Python.
