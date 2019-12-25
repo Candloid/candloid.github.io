@@ -1,11 +1,8 @@
 ## Welcome to Candloid's GitHub
-Here, you can find a couple of presentable repos to demonstrate my coding abilities in Java and Python.
-
-### My LinkedIn Profile
-Please feel free to visit my [LinkedIn profile page here](https://www.linkedin.com/in/bilalqandeel/).
+Hi! I am [Bilal Qandeel](https://www.linkedin.com/in/bilalqandeel/). Here, you can find a couple repos that I would like to show you in Java and Python.
 
 ### Coding languages
-I find myself most comfortable coding using `Python` and `Java`. I also can code using `C++` and `VB` too.
+I find myself most comfortable coding using `Python` and `Java`. I also can code using `C++`, `VB` and other different languages to different extents too.
 
 ### Coding production tools
 I have worked with `GitHub`, `Dockerhub`, `Jenkins`, and `K8S`.
