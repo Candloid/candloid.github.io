@@ -2,7 +2,7 @@
 ![https://www.linkedin.com/in/bilalqandeel/](/qr.png)
 
 Hi! I am [Bilal Qandeel](https://www.linkedin.com/in/bilalqandeel/). Here, you can find a couple repos that I would like to show you in Java and Python.
-#### [Download resume here](resume.docx)
+#### [Download my resume here](BilalQandeel.docx)
 
 ### Coding languages
 I find myself most comfortable coding using `Python` and `Java`. I also can code using `C++`, `VB` and other different languages to different extents too.
