@@ -1,5 +1,4 @@
 ## Welcome to @Candloid's GitHub
-<center>
 <p align="center">
   <table style="width: 100%;" align="center">
     <tbody>
@@ -7,7 +6,7 @@
         <td style="width: 20%;">
           <p align="center">
             <a href="https://www.github.com/Candloid/">
-              <img src="/github.png" width="77"><br/>
+              <img src="github.png" width="77"><br/>
               @Candloid
             </a>
           </p>
@@ -15,28 +14,28 @@
         <td style="width: 20%;">
           <p align="center">
             <a href="https://www.linkedin.com/in/bilalqandeel/">
-              <img src="/qr.png"><br/>
+              <img src="qr.png"><br/>
               bilalqandeel
             </a>
           </p>
         </td>
         <td style="width: 20%;">
           <p align="center">
-            <a href="/BilalQandeel.docx">
-            <img src="/hiring.png" width="77"><br/>
+            <a href="BilalQandeel.docx">
+            <img src="hiring.png" width="77"><br/>
             Download resume
             </a>
           </p>
         </td>
         <td style="width: 20%;">
           <p align="center">
-            <img src="/phone.png" width="77"><br/>
+            <img src="phone.png" width="77"><br/>
             (438) 921-5565
           </p>
         </td>
         <td style="width: 20%;">
           <p align="center">
-            <img src="/skype.png" width="77"><br/>
+            <img src="skype.png" width="77"><br/>
             bilal.qandeel
           </p>
         </td>
@@ -44,7 +43,6 @@
     </tbody>
   </table>
 </p>
-</center>
 
 Hi! I am Bilal Qandeel. Here, you can find a couple repos that I would like to show you in `Java` and `Python`.
 
@@ -52,7 +50,7 @@ Hi! I am Bilal Qandeel. Here, you can find a couple repos that I would like to s
 I find myself most comfortable coding using `Python` and `Java`. I also can code using `C++`, `VB` and other different languages to different extents too.
 
 ### Coding production tools
-I have worked with `GitHub`, `Dockerhub`, `Jenkins`, and `K8S`.
+/I have worked with `GitHub`, `Dockerhub`, `Jenkins`, and `K8S`.
 
 ### Highlights
 Here is my [GitHub page](https://github.com/Candloid). A couple of repos that I like to show:
