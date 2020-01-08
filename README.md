@@ -1,8 +1,52 @@
 ## Welcome to @Candloid's GitHub
-![https://www.linkedin.com/in/bilalqandeel/](/qr.png)
+<center>
+<p align="center">
+  <table style="width: 100%;" align="center">
+    <tbody>
+      <tr>
+        <td style="width: 20%;">
+          <p align="center">
+            <a href="https://www.github.com/Candloid/">
+              <img src="/github.png" width="77"><br/>
+              @Candloid
+            </a>
+          </p>
+        </td>
+        <td style="width: 20%;">
+          <p align="center">
+            <a href="https://www.linkedin.com/in/bilalqandeel/">
+              <img src="/qr.png"><br/>
+              bilalqandeel
+            </a>
+          </p>
+        </td>
+        <td style="width: 20%;">
+          <p align="center">
+            <a href="/BilalQandeel.docx">
+            <img src="/hiring.png" width="77"><br/>
+            Download resume
+            </a>
+          </p>
+        </td>
+        <td style="width: 20%;">
+          <p align="center">
+            <img src="/phone.png" width="77"><br/>
+            (438) 921-5565
+          </p>
+        </td>
+        <td style="width: 20%;">
+          <p align="center">
+            <img src="/skype.png" width="77"><br/>
+            bilal.qandeel
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+</center>
 
-Hi! I am Bilal Qandeel. Feel free to checkout my [LinkedIn page](https://www.linkedin.com/in/bilalqandeel/). Here, you can find a couple repos that I would like to show you in `Java` and `Python`.
-#### [Download my resume here](BilalQandeel.docx)
+Hi! I am Bilal Qandeel. Here, you can find a couple repos that I would like to show you in `Java` and `Python`.
 
 ### Coding languages
 I find myself most comfortable coding using `Python` and `Java`. I also can code using `C++`, `VB` and other different languages to different extents too.
