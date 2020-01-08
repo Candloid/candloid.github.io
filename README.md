@@ -14,7 +14,7 @@
         <td style="width: 20%;">
           <p align="center">
             <a href="https://www.linkedin.com/in/bilalqandeel/">
-              <img src="qr.png"><br/>
+              <img src="qr.png" width="77"><br/>
               bilalqandeel
             </a>
           </p>
