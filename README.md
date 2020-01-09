@@ -48,9 +48,7 @@
 ## Welcome!
 Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering professional](#engineering) with an unresolved fixation for [information technology](#it).
 
-<p align="centered">
-  What side would like to see?
-</p>
+**What side would like to see?**
 
 [![Left](/Left.png)](#engineering) [![Right](/Right.png)](#it)
 
