@@ -46,7 +46,9 @@
 </p>
 
 ## Welcome!
-Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an electrical engineering professional with an unresolved fixation for information technology.
+Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering professional](##Engineering) with an unresolved fixation for [information technology](##IT).
+
+[![Left](/Left.png)](##Engineering) [![Right](/Right.png)](##IT)
 
 <p align="center">
   <a href="##Engineering">
@@ -65,11 +67,11 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an elect
 
 ### Competencies
 - Graduate Diploma in Computer Science from Concordia University, 2019.
-- Hands-on expereince in `Python` and `Java`. `MS VB`, and `ASM`.
+- Hands-on expereince in `Python`, `Java`, `MS VB`, and `ASM`.
 - Hands-on experience in specialized engineering coding languages. *See [Engineering](##Engineering)*.
 -	Worked with MongoDB, MySQL, JSON, XML.
 - Worked briefly on `C++` and `JavaScript`.
-- Acquaint with industrial coding production tools `GitHub` | `Dockerhub` | `Jenkins` | `Confluence` | `JIRA`, and `TestRail`.
+- Acquaint with industrial coding production tools `GitHub`, `Dockerhub`, `Jenkins`, `Confluence`, `JIRA`, and `TestRail`.
 
 ### `GitHub` Repos to Show
 Here are a couple of `GitHub` repositories that I would like to show you in `Java` and `Python`.
@@ -95,8 +97,8 @@ This project is part of an educational effort for creating a GUI `Java` interfac
   - Certified `LEED` Green Associate
   - Experienced in industrial cybersecurity `ISA99`
   - Experience in Substation Automation protocol (`IEC 61850`).
-    - Acquaint with `SCL` language and `IID` | `CID` | `ICD` files.
-    - Integrated different kinds of `SCADA` running at different communication protocols like `T101` | `T104` | `Modbus`, and `DNP3`.
+    - Acquaint with `SCL` language and `IID`, `CID`, and `ICD` files.
+    - Integrated different kinds of `SCADA` running at different communication protocols like `T101`, `T104`, `Modbus`, and `DNP3`.
     - Programmed different sorts of `HMIs`; hardware and software.
     - Integrated a different spectrum of IEDs including third-party systems.
   - Hands-on experience with `PLC` standard (`IEC 61131`).
