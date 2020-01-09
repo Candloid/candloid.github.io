@@ -48,19 +48,11 @@
 ## Welcome!
 Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering professional](#engineering) with an unresolved fixation for [information technology](#it).
 
-[![Left](/Left.png)](#engineering) [![Right](/Right.png)](#it)
-
-Then 
-
-<p align="center">
-  <a href="#engineering">
-    <img src="Left.png" width="50%"><br/>
-  </a>
-  <a href="#it">
-    <img src="Right.png" width="50%"><br/>
-  </a>
-  Click the side are you looking for?
+<p align="centered">
+  What side would like to see?
 </p>
+
+[![Left](/Left.png)](#engineering) [![Right](/Right.png)](#it)
 
 ## IT
 
