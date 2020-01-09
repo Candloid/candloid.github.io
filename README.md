@@ -46,21 +46,23 @@
 </p>
 
 ## Welcome!
-Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering professional](##Engineering) with an unresolved fixation for [information technology](##IT).
+Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering professional](#engineering) with an unresolved fixation for [information technology](#it).
 
-[![Left](/Left.png)](##Engineering) [![Right](/Right.png)](##IT)
+[![Left](/Left.png)](#engineering) [![Right](/Right.png)](#it)
+
+Then 
 
 <p align="center">
-  <a href="##Engineering">
+  <a href="#engineering">
     <img src="Left.png" width="50%"><br/>
   </a>
-  <a href="##IT">
+  <a href="#it">
     <img src="Right.png" width="50%"><br/>
   </a>
   Click the side are you looking for?
 </p>
 
-## .:: IT ::.
+## IT
 
 ### Keywords
 `Python` | `Java` | `VB` | `ASM` | `C++` | `JavaScript` | `GitHub` | `DockerHub` | `Jenkins` | `Confluence` | `JIRA` | `TestRail` | `JSON` | `XML`
@@ -68,7 +70,7 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
 ### Competencies
 - Graduate Diploma in Computer Science from Concordia University, 2019.
 - Hands-on expereince in `Python`, `Java`, `MS VB`, and `ASM`.
-- Hands-on experience in specialized engineering coding languages. *See [Engineering](##Engineering)*.
+- Hands-on experience in specialized engineering coding languages. *See [Engineering](#engineering)*.
 -	Worked with MongoDB, MySQL, JSON, XML.
 - Worked briefly on `C++` and `JavaScript`.
 - Acquaint with industrial coding production tools `GitHub`, `Dockerhub`, `Jenkins`, `Confluence`, `JIRA`, and `TestRail`.
@@ -85,7 +87,7 @@ This project is an `Android mobile` app that is developed on `Android Studio` wi
 #### [personalBudgetManager](https://github.com/Candloid/pbm)
 This project is part of an educational effort for creating a GUI `Java` interface to interact with a `MySQL` database.
 
-## .:: Engineering ::.
+## Engineering
 
 ### Keywords
 `KNX` | `LEED` | `SCL` | `SCADA` | `T101` | `T104` | `Modbus` | `DNP3` | `HMI` | `PLC` | `IEC 61850` | `IEC 61131` | `IEC 14543` | `ISA99` | `DALI` | `DMX` | `HVAC` | `DCS` | `SAS` | `PLC` | `SCADA` | `PACiS` | `iFLS` | `FDIR` | `BAS` | `BMS` | `FIDIC` | `ISA99` | `LEED` | `KNX` | `StruxureWare` | `Easergy`
