@@ -55,7 +55,7 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
 ## IT
 
 ### Keywords
-`Python` | `Java` | `VB` | `ASM` | `C++` | `JavaScript` | `GitHub` | `DockerHub` | `Jenkins` | `Confluence` | `JIRA` | `TestRail` | `JSON` | `XML`
+`Python` `Java` `VB` `ASM` `C++` `JavaScript` `GitHub` `DockerHub` `Jenkins` `Confluence` `JIRA` `TestRail` `JSON` `XML`
 
 ### Competencies
 - Graduate Diploma in Computer Science from Concordia University, 2019.
@@ -80,7 +80,7 @@ This project is part of an educational effort for creating a GUI `Java` interfac
 ## Engineering
 
 ### Keywords
-`KNX` | `LEED` | `SCL` | `SCADA` | `T101` | `T104` | `Modbus` | `DNP3` | `HMI` | `PLC` | `IEC 61850` | `IEC 61131` | `IEC 14543` | `ISA99` | `DALI` | `DMX` | `HVAC` | `DCS` | `SAS` | `PLC` | `SCADA` | `PACiS` | `iFLS` | `FDIR` | `BAS` | `BMS` | `FIDIC` | `ISA99` | `LEED` | `KNX` | `StruxureWare` | `Easergy`
+`KNX` `LEED` `SCL` `SCADA` `T101` `T104` `Modbus` `DNP3` `HMI` `PLC` `IEC 61850` `IEC 61131` `IEC 14543` `ISA99` `DALI` `DMX` `HVAC` `DCS` `SAS` `PLC` `SCADA` `PACiS` `iFLS` `FDIR` `BAS` `BMS` `FIDIC` `ISA99` `LEED` `KNX` `StruxureWare` `Easergy`
 
 ### Competencies
 - Bachelor of Science in Electrical Engineering.
