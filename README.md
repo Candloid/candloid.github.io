@@ -52,6 +52,8 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
 
 [![Left](/Left.png)](#engineering) [![Right](/Right.png)](#it)
 
+---
+
 ## IT
 
 ### Keywords
@@ -65,7 +67,7 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
 - Worked briefly on `C++` and `JavaScript`.
 - Acquaint with industrial coding production tools `GitHub`, `Dockerhub`, `Jenkins`, `Confluence`, `JIRA`, and `TestRail`.
 
-### `GitHub` Repos to Show
+### GitHub Repos to Show
 Here are a couple of `GitHub` repositories that I would like to show you in `Java` and `Python`.
 
 #### [auto_api](https://github.com/Candloid/auto_api)
@@ -76,6 +78,8 @@ This project is an `Android mobile` app that is developed on `Android Studio` wi
 
 #### [personalBudgetManager](https://github.com/Candloid/pbm)
 This project is part of an educational effort for creating a GUI `Java` interface to interact with a `MySQL` database.
+
+---
 
 ## Engineering
 
