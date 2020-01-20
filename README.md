@@ -46,17 +46,6 @@
 </p>
 
 # Profile
-Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering](#engineering) and [information technology](#it) professional with 10+ years of experience in cross-disciplinary fields:
-- IT and software development experience;
-    - Proficient in OOLs: `Python`, `Java`, C Language (mainly `C++`), and variations of `BASIC`.
-    - Worked with `MongoDB`, `MySQL`, `JSON`, `XML`, `CSV`.
-    - Employed industrial coding standards using `Git`, `Docker`, `K8S`, `Jenkins`, `Confluence`, `JIRA`, and `TestRail`.
-- Automation engineering applications: HVAC control, substations control and industrial process control;
-    - Expert on `IEC61850` standard for substations automation and `SCADA` engineering.
-    - Expert on `IEC61131` for `PLC` engineering.
-    - Experienced in industrial cybersecurity (`ISA99`).
-    - Experienced in computer hardware, embedded systems and machine language (`ASM`).
-- Worked shortly on state-level regulatory telecommunications and sales engineering.
 
 **What side would like to see?**
 
@@ -68,6 +57,18 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
     <img src="Right.png">
   </a>
 </p>
+
+Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering](#engineering) and [information technology](#it) professional with 10+ years of experience in cross-disciplinary fields:
+- [IT and software development experience](#it);
+    - Proficient in object-oriented languages: `Python`, `Java`, C Language (mainly `C++`), and variations of `BASIC`.
+    - Worked with `MongoDB`, `MySQL`, `JSON`, `XML`, `CSV`.
+    - Employed industrial coding standards using `Git`, `Docker`, `K8S`, `Jenkins`, `Confluence`, `JIRA`, and `TestRail`.
+- [Automation engineering applications:](#engineer) HVAC control, substations control and industrial process control;
+    - Expert on `IEC61850` standard for substations automation and `SCADA` engineering.
+    - Expert on `IEC61131` for `PLC` engineering.
+    - Experienced in industrial cybersecurity (`ISA99`).
+    - Experienced in computer hardware, embedded systems and machine language (`ASM`).
+- Worked shortly on state-level regulatory telecommunications and sales engineering.
 
 # IT
 - Graduate Diploma in Computer Science from Concordia University, 2019.
@@ -176,12 +177,49 @@ My role was to deploy SE's proprietary `PACiS` system there.
 ### [Southeastern Pennsylvania Transportation Authority](http://septa.org/rebuilding/substation/morton.html)
 This project was with Schneider-Electric (SE) for the benefit of Southeastern Pennsylvania Transportation Authority (SEPTA), PA, USA. The project is a substation that serves the transportation power grid in Philadelphia, PA.
 
-I was tasked to present a training session for SEPTA's staff on SE's proprietary PACiS system.
+I was tasked to present a training session for SEPTA's staff on SE's proprietary `PACiS` system.
 
 ### [Information Technology & Communication Complex (ITCC)](https://www.albawani.net/project/itcc/)
 This project was with Schnedier-Electric (SE) for the benefit of Al-Bawani, Riyadh, Saudi Arabia. The project is a mini IT city that should serve as a technology hub.
 
-My mission in the project was to deploy multiple management systems to different functional buildings; `KNX` lighting control, in addition to Building-, Data-, Energy-, and Measurement Management Systems.
+My mission in the project was to deploy multiple management systems to different functional buildings; `KNX` lighting control system, in addition to `BMS`, `DMS`, `EMS`, and `MMS` Systems; Building-, Data-, Energy-, and Measurement Management Systems.
+
+# Professional Experience
+- [SSENSE](https://www.ssense.com/)
+  - Software Developer	*Montreal, Quebec, Sep 2019 – Dec 2019*
+    - Python development for web framework over Flask for microsystems architecture.
+    - Data analytics and visualization using DataDog and NewRelic.
+
+- [Schneider-Electric](https://www.se.com/ww/en/)
+  - Distributed Control Systems (DCS) Specialist,	*Brossard, Quebec, Nov 2016 – May 2018*
+    - Schneider-Electric’s PACiS, EcoSUI, PowerSCADA, Easergy, StruxureWare.
+    - SCADA, DNP3, Modbus, HMI, iFLS, FDIR, IEC61850 IEDs: Schneider-Electric, SEL, Vizimax, Cooper and ABB.
+
+  - Automation Engineer,	*Riyadh, Saudi Arabia, Mar 2014 – Nov 2016*
+    - PACiS, SCADA, T101, T104, HMI, IEC61850 IEDs: SEL, ABB, Continuum and Modicon.
+    - Operational Technology (OT) cybersecurity: NERC-CIP and ISA99.
+
+  - Senior KNX/EIB Engineer,	*Riyadh, Saudi Arabia, Jun 2012 – Mar 2014*
+    - KNX BAS, EMS, FMS, BMS, HVAC, DALI and KNX
+    - Rendered AutoCAD schematics for risers and shop drawings.
+
+- [Telecommunications Regulatory Commission of Jordan (TRC)](https://trc.gov.jo/)
+  - Telecommunications Regulatory Officer,	*Amman, Jordan, May 2011 – Aug 2012*
+    - Governmental telecom regulation, field inspections, competition analysis, EU regulatory twinning.
+
+  - Frequency Inspection and Monitoring Engineer,	*Amman, Jordan, Jun 2010 – May 2011*
+    - Radio frequency utilization analysis and field radio-frequency test drives.
+
+# Education
+- [Concordia University](https://www.concordia.ca/)
+  - [Graduate Diploma in Computer Science](https://www.concordia.ca/academics/graduate/computer-science-diploma.html)	*Montreal, QC, Sep 2018 – Sep 2019*
+    - Summer class of 2019 semester.
+
+- [The University of Jordan](http://ju.edu.jo/)
+  - [Bachelors of in Electrical Engineering](http://engineering.ju.edu.jo/Departments/DeptStudyPlans.aspx?DeptName=Electrical%20Engineering)	*Amman, Jordan, Jun 2003 – Aug 2007*
+    - Credentials authenticated & evaluated by the World Education Services Canada.
+    - Focus on control theory, computer applications & telecom principles.
+
 
 # Professional Development
 - Certified `KNX` Partner (ID 42599),	*KNX Organization, May 2013*
