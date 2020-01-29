@@ -185,40 +185,40 @@ This project was with Schnedier-Electric (SE) for the benefit of Al-Bawani, Riya
 My mission in the project was to deploy multiple management systems to different functional buildings; `KNX` lighting control system, in addition to `BMS`, `DMS`, `EMS`, and `MMS` Systems; Building-, Data-, Energy-, and Measurement Management Systems.
 
 # Professional Experience
-- [SSENSE](https://www.ssense.com/)
-  - Software Developer	*Montreal, Quebec, Sep 2019 – Dec 2019*
-    - Python development for web framework over Flask for microsystems architecture.
-    - Data analytics and visualization using DataDog and NewRelic.
+## [SSENSE](https://www.ssense.com/)
+### Software Developer	*Montreal, Quebec, Sep 2019 – Dec 2019*
+- Python development for web framework over Flask for microsystems architecture.
+- Data analytics and visualization using DataDog and NewRelic.
 
-- [Schneider-Electric](https://www.se.com/ww/en/)
-  - Distributed Control Systems (DCS) Specialist,	*Brossard, Quebec, Nov 2016 – May 2018*
-    - Schneider-Electric’s PACiS, EcoSUI, PowerSCADA, Easergy, StruxureWare.
-    - SCADA, DNP3, Modbus, HMI, iFLS, FDIR, IEC61850 IEDs: Schneider-Electric, SEL, Vizimax, Cooper and ABB.
+## [Schneider-Electric](https://www.se.com/ww/en/)
+### Distributed Control Systems (DCS) Specialist,	*Brossard, Quebec, Nov 2016 – May 2018*
+- Schneider-Electric’s PACiS, EcoSUI, PowerSCADA, Easergy, StruxureWare.
+- SCADA, DNP3, Modbus, HMI, iFLS, FDIR, IEC61850 IEDs: Schneider-Electric, SEL, Vizimax, Cooper and ABB.
 
-  - Automation Engineer,	*Riyadh, Saudi Arabia, Mar 2014 – Nov 2016*
-    - PACiS, SCADA, T101, T104, HMI, IEC61850 IEDs: SEL, ABB, Continuum and Modicon.
-    - Operational Technology (OT) cybersecurity: NERC-CIP and ISA99.
+### Automation Engineer,	*Riyadh, Saudi Arabia, Mar 2014 – Nov 2016*
+- PACiS, SCADA, T101, T104, HMI, IEC61850 IEDs: SEL, ABB, Continuum and Modicon.
+- Operational Technology (OT) cybersecurity: NERC-CIP and ISA99.
 
-  - Senior KNX/EIB Engineer,	*Riyadh, Saudi Arabia, Jun 2012 – Mar 2014*
-    - KNX BAS, EMS, FMS, BMS, HVAC, DALI and KNX
-    - Rendered AutoCAD schematics for risers and shop drawings.
+### Senior KNX/EIB Engineer,	*Riyadh, Saudi Arabia, Jun 2012 – Mar 2014*
+- KNX BAS, EMS, FMS, BMS, HVAC, DALI and KNX
+- Rendered AutoCAD schematics for risers and shop drawings.
 
-- [Telecommunications Regulatory Commission of Jordan (TRC)](https://trc.gov.jo/)
-  - Telecommunications Regulatory Officer,	*Amman, Jordan, May 2011 – Aug 2012*
-    - Governmental telecom regulation, field inspections, competition analysis, EU regulatory twinning.
+## [Telecommunications Regulatory Commission of Jordan (TRC)](https://trc.gov.jo/)
+### Telecommunications Regulatory Officer,	*Amman, Jordan, May 2011 – Aug 2012*
+- Governmental telecom regulation, field inspections, competition analysis, EU regulatory twinning.
 
-  - Frequency Inspection and Monitoring Engineer,	*Amman, Jordan, Jun 2010 – May 2011*
-    - Radio frequency utilization analysis and field radio-frequency test drives.
+### Frequency Inspection and Monitoring Engineer,	*Amman, Jordan, Jun 2010 – May 2011*
+- Radio frequency utilization analysis and field radio-frequency test drives.
 
 # Education
-- [Concordia University](https://www.concordia.ca/)
-  - [Graduate Diploma in Computer Science](https://www.concordia.ca/academics/graduate/computer-science-diploma.html)	*Montreal, QC, Sep 2018 – Sep 2019*
-    - Summer class of 2019 semester.
+## [Concordia University](https://www.concordia.ca/)
+- [Graduate Diploma in Computer Science](https://www.concordia.ca/academics/graduate/computer-science-diploma.html),	*Montreal, QC, Sep 2018 – Sep 2019*
+- Summer class of 2019 semester.
 
-- [The University of Jordan](http://ju.edu.jo/)
-  - [Bachelors of in Electrical Engineering](http://engineering.ju.edu.jo/Departments/DeptStudyPlans.aspx?DeptName=Electrical%20Engineering)	*Amman, Jordan, Jun 2003 – Aug 2007*
-    - Credentials authenticated & evaluated by the World Education Services Canada.
-    - Focus on control theory, computer applications & telecom principles.
+## [The University of Jordan](http://ju.edu.jo/)
+- [Bachelors of in Electrical Engineering](http://engineering.ju.edu.jo/Departments/DeptStudyPlans.aspx?DeptName=Electrical%20Engineering),	*Amman, Jordan, Jun 2003 – Aug 2007*
+- Credentials authenticated & evaluated by the World Education Services Canada.
+- Focus on control theory, computer applications & telecom principles.
 
 
 # Professional Development
