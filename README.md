@@ -107,6 +107,9 @@ This project was meant to automate the endpoint creation process in a generic wa
 ### [QubeR](https://github.com/Candloid/QubeR)
 This project is an `Android mobile` app that is developed on `Android Studio` with the help of a team. It takes 3 QR codes and blends them into a single one. Yes, you can just snap a single QubeR code and get 3 QR codes that are supposed to bundle different, yet close, varieties: say language, gender, color preference, ... Or, you can snap 3 QR codes and generate a single QubeR code that has the capability to obfuscate one or more layers with an access code if wanted. i.e. this a the next-level complex QR coding capability.
 
+### [bencode](https://github.com/Candloid/bencode)
+This project is `Python` library to encode and decode in `Bencode`. [Bencode](https://en.wikipedia.org/wiki/Bencode) is a legacy encoding and signaling style used in peer-to-peer communication.
+
 ### [personalBudgetManager](https://github.com/Candloid/pbm)
 This project is part of an educational effort for creating a GUI `Java` interface to interact with a `MySQL` database.
 
