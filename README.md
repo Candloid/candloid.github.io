@@ -71,12 +71,6 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
 - Worked shortly on state-level regulatory telecommunications and sales engineering.
 
 # IT
-- Graduate Diploma in Computer Science from Concordia University, 2019.
-- Hands-on expereince in `Python`, `Java`, `MS VB`, and `ASM`.
-- Hands-on experience in specialized engineering coding languages. *See [Engineering](#engineering)*.
--	Worked with `MongoDB`, `MySQL`, `JSON`, `XML`.
-- Worked briefly on `C++` and `JavaScript`.
-- Acquaint with industrial coding production tools `GitHub`, `Dockerhub`, `Jenkins`, `Confluence`, `JIRA`, `Datadog` and `TestRail`.
 
 ## Keywords
 `ASM`
@@ -87,7 +81,6 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
 `GitHub`
 `HTML`
 `Java`
-`JavaScript`
 `Jenkins`
 `JIRA`
 `JSON`
@@ -98,14 +91,19 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
 `VB`
 `XML`
 
+## Synopsis
+- Graduate Diploma in Computer Science from Concordia University, 2019.
+- Hands-on expereince in `Python`, `Java`, `MS VB`, and `ASM`.
+- Hands-on experience in specialized engineering coding languages. *See [Engineering](#engineering)*.
+-	Worked with `MongoDB`, `MySQL`, `JSON`, `XML`.
+- Worked briefly on `C++` and `JavaScript`.
+- Acquaint with industrial coding production tools `GitHub`, `Dockerhub`, `Jenkins`, `Confluence`, `JIRA`, `Datadog` and `TestRail`.
+
 ## GitHub Repos to Show
 Here are a couple of `GitHub` repositories that I would like to show you in `Java` and `Python`.
 
 ### [auto_api](https://github.com/Candloid/auto_api)
 This project was meant to automate the endpoint creation process in a generic way for `Python` classes. The functions in the class will be walked through and added as parameterizable endpoints in `Flask` with a nice `JSON` settings file for `Postman` ready for use to test.
-
-### [QubeR](https://github.com/Candloid/QubeR)
-This project is an `Android mobile` app that is developed on `Android Studio` with the help of a team. It takes 3 QR codes and blends them into a single one. Yes, you can just snap a single QubeR code and get 3 QR codes that are supposed to bundle different, yet close, varieties: say language, gender, color preference, ... Or, you can snap 3 QR codes and generate a single QubeR code that has the capability to obfuscate one or more layers with an access code if wanted. i.e. this a the next-level complex QR coding capability.
 
 ### [bencode](https://github.com/Candloid/bencode)
 This project is `Python` library to encode and decode in `Bencode`. [Bencode](https://en.wikipedia.org/wiki/Bencode) is a legacy encoding and signaling style used in peer-to-peer communication.
@@ -113,7 +111,46 @@ This project is `Python` library to encode and decode in `Bencode`. [Bencode](ht
 ### [personalBudgetManager](https://github.com/Candloid/pbm)
 This project is part of an educational effort for creating a GUI `Java` interface to interact with a `MySQL` database.
 
+### [QubeR](https://github.com/Candloid/QubeR)
+This project is an `Android mobile` app that is developed on `Android Studio` with the help of a team. It takes 3 QR codes and blends them into a single one. Yes, you can just snap a single QubeR code and get 3 QR codes that are supposed to bundle different, yet close, varieties: say language, gender, color preference, or you can snap 3 QR codes and generate a single QubeR code that has the capability to obfuscate one or more layers with an access code if wanted. i.e. this a the next-level complex QR coding capability.
+
 # Engineering
+
+## Keywords
+`ASM`
+`AutoLISP`
+`BAS`
+`BMS`
+`DALI (IEC 62386)`
+`DCS`
+`DNP3`
+`Easergy`
+`FBD`
+`FDIR`
+`FIDIC`
+`HMI`
+`HVAC`
+`iFLS`
+`ISA99`
+`KNX (IEC 14543)`
+`LD`
+`LEED`
+`MATLAB`
+`Modbus`
+`NERC-CIP`
+`PACiS`
+`Plain English`
+`PLC (IEC 61131)`
+`PMP`
+`SAS (IEC 61850)`
+`SCADA (IEC 60870-5)`
+`SCL`
+`StruxureWare`
+`T101`
+`T104`
+
+
+## Synopsis
 - Bachelor of Science in Electrical Engineering from the University of Jordan, 2007.
 - Acquaint in engineering languages: Assembly language `ASM` for microcontrollers and microprocessors, AutoCAD `AutoLISP`, `MATLAB`, Ladder Diagram `LD`, Functional Block Diagram `FBD`, Continuum `Plain English`.
 - Rich experience in control systems engineering:
@@ -132,44 +169,6 @@ This project is part of an educational effort for creating a GUI `Java` interfac
     - `DALI` (`IEC 62386` and `IEC 60929`) and lighting control
     - `HVAC` and temperature control systems.
 - Other experience include regulatory telecom and `HVAC` equipment sales engineering.
-
-## Keywords
-`ASM`
-`AutoLISP`
-`BAS`
-`BMS`
-`DALI`
-`DCS`
-`DNP3`
-`Easergy`
-`FBD`
-`FDIR`
-`FIDIC`
-`HMI`
-`HVAC`
-`IEC 14543`
-`IEC 60929`
-`IEC 61131`
-`IEC 61850`
-`IEC 62386`
-`iFLS`
-`ISA99`
-`KNX`
-`LD`
-`LEED`
-`MATLAB`
-`Modbus`
-`NERC-CIP`
-`PACiS`
-`Plain English`
-`PLC`
-`PMP`
-`SAS`
-`SCADA`
-`SCL`
-`StruxureWare`
-`T101`
-`T104`
 
 ## Distinguished Projects
 ### [Keewatinohk Converter Station](https://www.hydro.mb.ca/corporate/facilities/converter_stations/#Keewatinohk)
