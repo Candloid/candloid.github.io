@@ -187,6 +187,12 @@ This project was with Schnedier-Electric (SE) for the benefit of Al-Bawani, Riya
 My mission in the project was to deploy multiple management systems to different functional buildings; `KNX` lighting control system, in addition to `BMS`, `DMS`, `EMS`, and `MMS` Systems; Building-, Data-, Energy-, and Measurement Management Systems.
 
 # Professional Experience
+## [NouvLR](https://www.nouvlr.com/en/)
+###	Coordinator of tests and tryouts for GTT SCADA System	*Montreal, QC, Mar 2020 – Now* 
+-	Maintained GTT SCADA system’s requirements to the project’s standards.
+-	Evaluated the validity of the suppliers’ offers and recommended the most favorable.
+-	Validated the testing and commissioning procedures.
+
 ## [SSENSE](https://www.ssense.com/)
 ### Software Developer	*Montreal, Quebec, Sep 2019 – Dec 2019*
 - Python development for web framework over Flask for microsystems architecture.
