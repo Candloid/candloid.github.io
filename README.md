@@ -1,4 +1,4 @@
-# Welcome to @Candloid's GitHub
+# Welcome to <a href=https://www.github.com/Candloid/>@Candloid's</a> GitHub
 
 <p align="center">
   <table style="width: 100%;" align="center">
@@ -6,17 +6,17 @@
       <tr>
         <td style="width: 20%;">
           <p align="center">
-            <a href="BilalQandeel.docx">
-            <img src="hiring.png" width="77"><br/>
-            Download Resume
+            <a href="Bilal_Qandeel_IT.docx">
+            <img src="cogwheel.png" width="77"><br/>
+            IT Resume
             </a>
           </p>
         </td>
         <td style="width: 20%;">
           <p align="center">
-            <a href="https://www.github.com/Candloid/">
-              <img src="github.png" width="77"><br/>
-              @Candloid
+            <a href="Bilal_Qandeel_Engineering.docx">
+            <img src="helmet.png" width="77"><br/>
+            Engineering Resume
             </a>
           </p>
         </td>
