@@ -1,4 +1,4 @@
-# Welcome to <a href=https://www.github.com/Candloid/>@Candloid's</a> GitHub
+# Welcome to [@Candloid's](https://www.github.com/Candloid/) GitHub
 
 <p align="center">
   <table style="width: 100%;" align="center">
