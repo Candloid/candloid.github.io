@@ -171,6 +171,8 @@ This project is an `Android mobile` app that is developed on `Android Studio` wi
 - Other experience include regulatory telecom and `HVAC` equipment sales engineering.
 
 ## Distinguished Projects
+### [Montreal's Light Rail Project](https://rem.info/en/light-rail)
+This project is with NouvLR; a fully  automated electric light rail driverless train. The system is directed by a control centre that ensures proper functioning of equipment at all times.
 ### [Keewatinohk Converter Station](https://www.hydro.mb.ca/corporate/facilities/converter_stations/#Keewatinohk)
 This project was with Scheinder-Electric (SE) for the benefit of Manitoba Hydro, MB, Canada. The project is a multi-voltage converter station drawing the hydro power of the Nelson river and is a part of the power grid interconnection between the US and Canada.
 
