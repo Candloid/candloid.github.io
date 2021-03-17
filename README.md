@@ -190,10 +190,11 @@ My mission in the project was to deploy multiple management systems to different
 
 # Professional Experience
 ## [NouvLR](https://www.nouvlr.com/en/)
-###	Coordinator of tests and tryouts for GTT SCADA System	*Montreal, QC, Mar 2020 – Now* 
--	Maintained GTT SCADA system’s requirements to the project’s standards.
+###	Testing and Comissioning Coordinator for GTT SCADA System	*Montreal, QC, Mar 2020 – Now* 
 -	Evaluated the validity of the suppliers’ offers and recommended the most favorable.
--	Validated the testing and commissioning procedures.
+-	Maintained GTT SCADA system’s requirements to the project’s standards.
+-	Validate and supervise the testing and commissioning procedures.
+- Witness and report the testing activities across different stake holders. 
 
 ## [SSENSE](https://www.ssense.com/)
 ### Software Developer	*Montreal, Quebec, Sep 2019 – Dec 2019*
@@ -226,7 +227,7 @@ My mission in the project was to deploy multiple management systems to different
 - Summer class of 2019 semester.
 
 ## [The University of Jordan](http://ju.edu.jo/)
-- [Bachelors of in Electrical Engineering](http://engineering.ju.edu.jo/Departments/DeptStudyPlans.aspx?DeptName=Electrical%20Engineering),	*Amman, Jordan, Jun 2003 – Aug 2007*
+- [Bachelors of in Electrical Engineering](http://engineering.ju.edu.jo/Lists/DepartmentOverview/School_DepartmentOverview.aspx?DeptName=Electrical%20Engineering),	*Amman, Jordan, Jun 2003 – Aug 2007*
 - Credentials authenticated & evaluated by the World Education Services Canada.
 - Focus on control theory, computer applications & telecom principles.
 
