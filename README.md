@@ -47,17 +47,6 @@
 
 # Profile
 
-**What side would like to see?**
-
-<p align="center">
-  <a href="#engineering">
-    <img src="Left.png">
-  </a>
-  <a href="#it">
-    <img src="Right.png">
-  </a>
-</p>
-
 Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering](#engineering) and [information technology](#it) professional with 10+ years of experience in cross-disciplinary fields:
 - [IT and software development experience](#it);
     - Proficient in object-oriented languages: `Python`, `Java`, C Language (mainly `C++`), and variations of `BASIC`.
@@ -69,6 +58,17 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
     - Experienced in industrial cybersecurity (`ISA99`).
     - Experienced in computer hardware, embedded systems and machine language (`ASM`).
 - Worked shortly on state-level regulatory telecommunications and sales engineering.
+
+**What side would like to see?**
+
+<p align="center">
+  <a href="#engineering">
+    <img src="Left.png">
+  </a>
+  <a href="#it">
+    <img src="Right.png">
+  </a>
+</p>
 
 # IT
 
