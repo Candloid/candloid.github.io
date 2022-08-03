@@ -30,8 +30,10 @@
         </td>
         <td style="width: 20%;">
           <p align="center">
+            <a href="https://wa.me/+14389215565">
             <img src="phone.png" width="77"><br/>
             (438) 921-5565
+            </a>
           </p>
         </td>
         <td style="width: 20%;">
@@ -47,7 +49,9 @@
 
 # Profile
 
-Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering](#engineering) and [information technology](#it) professional with 10+ years of experience in cross-disciplinary fields:
+Hello,
+
+I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering](#engineering) and [information technology](#it) professional with almost 15 years of experience in cross-disciplinary fields:
 - [IT and software development experience](#it);
     - Proficient in object-oriented languages: `Python`, `Java`, C Language (mainly `C++`), and variations of `BASIC`.
     - Worked with `MongoDB`, `MySQL`, `JSON`, `XML`, `CSV`.
@@ -70,7 +74,7 @@ Hello. I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [elec
   </a>
 </p>
 
-# IT
+# ..:: IT ::..
 
 ## Keywords
 `ASM`
@@ -114,7 +118,7 @@ This project is part of an educational effort for creating a GUI `Java` interfac
 ### [QubeR](https://github.com/Candloid/QubeR)
 This project is an `Android mobile` app that is developed on `Android Studio` with the help of a team. It takes 3 QR codes and blends them into a single one. Yes, you can just snap a single QubeR code and get 3 QR codes that are supposed to bundle different, yet close, varieties: say language, gender, color preference, or you can snap 3 QR codes and generate a single QubeR code that has the capability to obfuscate one or more layers with an access code if wanted. i.e. this a the next-level complex QR coding capability.
 
-# Engineering
+# ..:: Engineering ::..
 
 ## Keywords
 `ASM`
@@ -191,10 +195,12 @@ My mission in the project was to deploy multiple management systems to different
 # Professional Experience
 ## [NouvLR](https://www.nouvlr.com/en/)
 ###	Testing and Comissioning Coordinator for GTT SCADA System	*Montreal, QC, Mar 2020 – Now* 
--	Evaluated the validity of the suppliers’ offers and recommended the most favorable.
 -	Maintained GTT SCADA system’s requirements to the project’s standards.
--	Validate and supervise the testing and commissioning procedures.
-- Witness and report the testing activities across different stake holders. 
+-	Evaluated the validity of the suppliers’ offers and recommended the most favorable.
+-	Validated the testing and commissioning procedures.
+-	Assisted in troubleshooting VLAN communication for DNP3 SCADA protocol.
+-	Assisted in enforcing the cyber security policies and procedures.
+-	Developed a couple of productivity scripts.
 
 ## [SSENSE](https://www.ssense.com/)
 ### Software Developer	*Montreal, Quebec, Sep 2019 – Dec 2019*
