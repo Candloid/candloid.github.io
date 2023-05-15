@@ -74,7 +74,7 @@ I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical 
   </a>
 </p>
 
-# ..:: IT ::..
+#IT
 
 ## Keywords
 `ASM`
@@ -118,7 +118,7 @@ This project is part of an educational effort for creating a GUI `Java` interfac
 ### [QubeR](https://github.com/Candloid/QubeR)
 This project is an `Android mobile` app that is developed on `Android Studio` with the help of a team. It takes 3 QR codes and blends them into a single one. Yes, you can just snap a single QubeR code and get 3 QR codes that are supposed to bundle different, yet close, varieties: say language, gender, color preference, or you can snap 3 QR codes and generate a single QubeR code that has the capability to obfuscate one or more layers with an access code if wanted. i.e. this a the next-level complex QR coding capability.
 
-# ..:: Engineering ::..
+#Engineering
 
 ## Keywords
 `ASM`
