@@ -36,12 +36,6 @@
             </a>
           </p>
         </td>
-        <td style="width: 20%;">
-          <p align="center">
-            <img src="skype.png" width="77"><br/>
-            bilal.qandeel
-          </p>
-        </td>
       </tr>
     </tbody>
   </table>
@@ -121,6 +115,7 @@ This project is an `Android mobile` app that is developed on `Android Studio` wi
 # Engineering
 
 ## Keywords
+`APIS`
 `ASM`
 `AutoLISP`
 `BAS`
@@ -139,6 +134,7 @@ This project is an `Android mobile` app that is developed on `Android Studio` wi
 `KNX (IEC 14543)`
 `LD`
 `LEED`
+`LVVR`
 `MATLAB`
 `Modbus`
 `NERC-CIP`
@@ -152,7 +148,6 @@ This project is an `Android mobile` app that is developed on `Android Studio` wi
 `StruxureWare`
 `T101`
 `T104`
-
 
 ## Synopsis
 - Bachelor of Science in Electrical Engineering from the University of Jordan, 2007.
@@ -193,8 +188,20 @@ This project was with Schnedier-Electric (SE) for the benefit of Al-Bawani, Riya
 My mission in the project was to deploy multiple management systems to different functional buildings; `KNX` lighting control system, in addition to `BMS`, `DMS`, `EMS`, and `MMS` Systems; Building-, Data-, Energy-, and Measurement Management Systems.
 
 # Professional Experience
+
+## [IKOS Consulting Group](https://www.ikosconsulting.com/)
+### SCADA and Integration Consultant with [Metrolinx, ON](https://www.metrolinx.com/en), *(Jul 2023 - Present)*
+-	SCADA testing and commissioning activities.
+-	Quality control of the system’s deliveries.
+-	Third-party low current system integration.
+-	Root-cause analysis of snags and correction recommendations.
+
+### Systems Engineering Consultant with [ISC Applied Systems Inc, QC](https://www.iscappliedsystems.com/), *(Feb 2023 - Jun 2023)*
+-	Provide systems engineering consultancy for Auto Passenger Information Systems (APIS).
+-	Locomotive communication system, Public Addressing systems (PA), CCTV, LVVR, and interior electronic advertisement systems (IEAS).
+
 ## [NouvLR](https://www.nouvlr.com/en/)
-###	Testing and Comissioning Coordinator for GTT SCADA System	*Montreal, QC, Mar 2020 – Now* 
+###	Testing and Comissioning Coordinator for GTT SCADA System, *(Mar 2020 – Jan 2023)*
 -	Maintained GTT SCADA system’s requirements to the project’s standards.
 -	Evaluated the validity of the suppliers’ offers and recommended the most favorable.
 -	Validated the testing and commissioning procedures.
@@ -203,37 +210,37 @@ My mission in the project was to deploy multiple management systems to different
 -	Developed a couple of productivity scripts.
 
 ## [SSENSE](https://www.ssense.com/)
-### Software Developer	*Montreal, Quebec, Sep 2019 – Dec 2019*
+### Software Developer, *(Sep 2019 – Dec 2019)*
 - Python development for web framework over Flask for microsystems architecture.
 - Data analytics and visualization using DataDog and NewRelic.
 
 ## [Schneider-Electric](https://www.se.com/ww/en/)
-### Distributed Control Systems (DCS) Specialist,	*Brossard, Quebec, Nov 2016 – May 2018*
+### Distributed Control Systems (DCS) Specialist,	*(Nov 2016 – May 2018)*
 - Schneider-Electric’s PACiS, EcoSUI, PowerSCADA, Easergy, StruxureWare.
 - SCADA, DNP3, Modbus, HMI, iFLS, FDIR, IEC61850 IEDs: Schneider-Electric, SEL, Vizimax, Cooper and ABB.
 
-### Automation Engineer,	*Riyadh, Saudi Arabia, Mar 2014 – Nov 2016*
+### Automation Engineer,	*(Mar 2014 – Nov 2016)*
 - PACiS, SCADA, T101, T104, HMI, IEC61850 IEDs: SEL, ABB, Continuum and Modicon.
 - Operational Technology (OT) cybersecurity: NERC-CIP and ISA99.
 
-### Senior KNX/EIB Engineer,	*Riyadh, Saudi Arabia, Jun 2012 – Mar 2014*
+### Senior KNX/EIB Engineer,	*(Jun 2012 – Mar 2014)*
 - KNX BAS, EMS, FMS, BMS, HVAC, DALI and KNX
 - Rendered AutoCAD schematics for risers and shop drawings.
 
 ## [Telecommunications Regulatory Commission of Jordan (TRC)](https://trc.gov.jo/)
-### Telecommunications Regulatory Officer,	*Amman, Jordan, May 2011 – Aug 2012*
+### Telecommunications Regulatory Officer,	*(May 2011 – Aug 2012)*
 - Governmental telecom regulation, field inspections, competition analysis, EU regulatory twinning.
 
-### Frequency Inspection and Monitoring Engineer,	*Amman, Jordan, Jun 2010 – May 2011*
+### Frequency Inspection and Monitoring Engineer,	*(Jun 2010 – May 2011)*
 - Radio frequency utilization analysis and field radio-frequency test drives.
 
 # Education
 ## [Concordia University](https://www.concordia.ca/)
-- [Graduate Diploma in Computer Science](https://www.concordia.ca/academics/graduate/computer-science-diploma.html),	*Montreal, QC, Sep 2018 – Sep 2019*
+- [Graduate Diploma in Computer Science](https://www.concordia.ca/academics/graduate/computer-science-diploma.html),	*(Sep 2018 – Sep 2019)*
 - Summer class of 2019 semester.
 
 ## [The University of Jordan](http://ju.edu.jo/)
-- [Bachelors of in Electrical Engineering](http://engineering.ju.edu.jo/Lists/DepartmentOverview/School_DepartmentOverview.aspx?DeptName=Electrical%20Engineering),	*Amman, Jordan, Jun 2003 – Aug 2007*
+- [Bachelors of in Electrical Engineering](http://engineering.ju.edu.jo/Lists/DepartmentOverview/School_DepartmentOverview.aspx?DeptName=Electrical%20Engineering),	*(Jun 2003 – Aug 2007)*
 - Credentials authenticated & evaluated by the World Education Services Canada.
 - Focus on control theory, computer applications & telecom principles.
 
