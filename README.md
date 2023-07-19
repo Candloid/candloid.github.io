@@ -6,17 +6,9 @@
       <tr>
         <td style="width: 20%;">
           <p align="center">
-            <a href="Bilal_Qandeel_IT.docx">
-            <img src="cogwheel.png" width="77"><br/>
-            IT Resume
-            </a>
-          </p>
-        </td>
-        <td style="width: 20%;">
-          <p align="center">
             <a href="Bilal_Qandeel_Engineering.docx">
             <img src="helmet.png" width="77"><br/>
-            Engineering Resume
+            My Resume
             </a>
           </p>
         </td>
