@@ -6,7 +6,7 @@
       <tr>
         <td style="width: 20%;">
           <p align="center">
-            <a href="Bilal_Qandeel_Engineering.docx">
+            <a href="Bilal_Qandeel.docx">
             <img src="helmet.png" width="77"><br/>
             My Resume
             </a>
@@ -162,8 +162,16 @@ This project is an `Android mobile` app that is developed on `Android Studio` wi
 - Other experience include regulatory telecom and `HVAC` equipment sales engineering.
 
 ## Distinguished Projects
-### [Montreal's Light Rail Project](https://rem.info/en/light-rail)
-This project is with NouvLR; a fully  automated electric light rail driverless train. The system is directed by a control centre that ensures proper functioning of equipment at all times.
+### [Eglinton's Crosstown Light Rail Project (ECLRT)](https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt)
+This project is with Crosslinx. From east to west, the Crosstown LRT connects with more transit across midtown better than ever before. From accessing TTC Line 1 at both Yonge and further west at Cedarvale, to linking with three GO Stations and a larger network of buses, the Crosstown LRT really serves the larger GTA community by reaching out across the entire region.
+
+With 25 stops between Kennedy in the east and Mount Dennis in the west, residents and visitors alike will find it truly convenient to hop on the Crosstown LRT to access work, do errands, grab a bite, or visit friends across the city.
+
+### [Montreal's Light Rail Project (REM)](https://rem.info/en/light-rail)
+This project is with NouvLR. The Réseau express métropolitain (REM; lit. 'Metropolitan Express Network') is a light metro rapid transit system in Greater Montreal, Quebec, Canada. It consists of five stations and connects Downtown Montreal with the suburb of Brossard. Extensions to the western Montreal suburbs and Montréal–Trudeau International Airport are under construction and will open in stages between 2024 and 2027. A portion of the route was taken over from the Exo commuter rail Deux-Montagnes line and is being converted to light metro standards.
+
+The 67-kilometre (42 mi) light metro rail system is projected to cost C$6.9 billion. It is independent of, but connects to and hence complements, the existing Montreal Metro, operated by the STM. Trains on the network are fully automated and driverless.
+
 ### [Keewatinohk Converter Station](https://www.hydro.mb.ca/corporate/facilities/converter_stations/#Keewatinohk)
 This project was with Scheinder-Electric (SE) for the benefit of Manitoba Hydro, MB, Canada. The project is a multi-voltage converter station drawing the hydro power of the Nelson river and is a part of the power grid interconnection between the US and Canada.
 
