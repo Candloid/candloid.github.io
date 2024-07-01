@@ -37,7 +37,7 @@
 
 Hello,
 
-I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering](#engineering) and [information technology](#it) professional with almost 15 years of experience in cross-disciplinary fields:
+I am [Bilal Qandeel](mailto:bilal.qandeel@gmail.com "Email me"); an [electrical engineering](#engineering) and [information technology](#it) professional with more than 15 years of experience in cross-disciplinary fields:
 - [IT and software development experience](#it);
     - Proficient in object-oriented languages: `Python`, `Java`, C Language (mainly `C++`), and variations of `BASIC`.
     - Worked with `MongoDB`, `MySQL`, `JSON`, `XML`, `CSV`.
@@ -190,7 +190,9 @@ My mission in the project was to deploy multiple management systems to different
 # Professional Experience
 
 ## [IKOS Consulting Group](https://www.ikosconsulting.com/)
-### SCADA and Integration Consultant with [Metrolinx, ON](https://www.metrolinx.com/en), *(Jul 2023 - Present)*
+### Software Requirements Review with [Aegis Engineering](https://aegisengineering.co.uk/about-us/),*(Nov 2023 - May 2024)*
+- Systems and software requirements compliance to `EN 50126-5` Railway applications; the specification and demonstration of Reliability, Availability, Maintainability and Safety (`RAMS`).
+### SCADA and Integration Consultant with [Metrolinx, ON](https://www.metrolinx.com/en), *(Jul 2023 - Nov 2023)*
 -	SCADA testing and commissioning activities.
 -	Quality control of the system’s deliveries.
 -	Third-party low current system integration.
