@@ -7,7 +7,7 @@
         <td style="width: 20%;">
           <p align="center">
             <a href="Bilal_Qandeel.docx">
-            <img src="helmet.png" width="77"><br/>
+            <span style="font-size: 55px;">🔻</span><br>
             My Resume
             </a>
           </p>
@@ -22,9 +22,9 @@
         </td>
         <td style="width: 20%;">
           <p align="center">
-            <a href="https://wa.me/+14389215565">
-            <img src="phone.png" width="77"><br/>
-            (438) 921-5565
+            <a href="mailto:bilal.qandeel@gmail.com">
+            <span style="font-size: 55px;">📧</span><br>
+            Send me an email
             </a>
           </p>
         </td>
@@ -123,6 +123,7 @@ This project is an `Android mobile` app that is developed on `Android Studio` wi
 `HVAC`
 `iFLS`
 `ISA99`
+`ISaGRAF`
 `KNX (IEC 14543)`
 `LD`
 `LEED`
@@ -188,6 +189,11 @@ This project was with Schnedier-Electric (SE) for the benefit of Al-Bawani, Riya
 My mission in the project was to deploy multiple management systems to different functional buildings; `KNX` lighting control system, in addition to `BMS`, `DMS`, `EMS`, and `MMS` Systems; Building-, Data-, Energy-, and Measurement Management Systems.
 
 # Professional Experience
+
+## [Amazon Web Services](https://aws.amazon.com/compliance/data-center/data-centers/www.aws.com)
+### Data Center Controls Engineer, Canton, MS
+- Worked at JAN's Optimized Data Center (OPTDC) facility for customized HVAC application using Building Management System (BMS) controls and on-the-clock monitoring using Electric Power Management Systems (EPMS).
+- Highly-customized SOOs, PUE metrics, and high availability by design.
 
 ## [IKOS Consulting Group](https://www.ikosconsulting.com/)
 ### Software Requirements Review with [Aegis Engineering](https://aegisengineering.co.uk/about-us/),*(Nov 2023 - May 2024)*
