@@ -1,10 +1,16 @@
 # BILAL QANDEEL
-Canton, MS 39046 | +1 (662) 607-9571 | bilal.qandeel@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/bilalqandeel/)
+📍 Canton, MS 39046 | 📞 +1 (662) 607-9571 | 📨 bilal.qandeel@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/bilalqandeel/)
 
 ## PROFESSIONAL SUMMARY
 Canadian control engineering consultant with 18+ years of experience in control and automation engineering across the US, Canada, Saudi Arabia, and Jordan. Specialized in testing and commissioning of SCADA, Distributed Control Systems (DCS), Substation Automation Systems (SAS) using IEC 61850 protocol, and PLC automation solutions using the IEC 61131-3. Expert in Building Management Systems (BMS), Building Automation Systems (BAS), Electrical Power Management Systems (EPMS), industrial cybersecurity (ISA99), smart grid technologies, and data center engineering. Proven experience with multiple automation protocols including KNX/EIB, DALI, DNP3, Modbus, and proprietary solutions such as PACiS, StruxureWare, and Easergy.
 
 ## PROFESSIONAL EXPERIENCE
+
+### E-Technologies Group, INC. | New Carlisle, IN
+**Site Leader** | December 2025 - March 2026
+- Lead and train a team of more than 15 technicians in BMS and EPMS.
+-	Coordinate day-to-day construction and commissioning activities
+-	Provide technical consultancy for AWS delivery standards.
 
 ### AMAZON WEB SERVICES | Canton, MS
 **Controls Engineer** | February 2025 - Present
